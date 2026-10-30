@@ -46,9 +46,9 @@ Yazıları ve tekil karakterleri tutmak için kullanılırlar.
 *   **`char`**: Sadece tek bir karakter tutar. Değerler tek tırnak `''` içine yazılır.
 
 ```csharp
-string kullaniciAdi = "Ahmet Yılmaz";
-string karsilamaMesaji = "C# dünyasına hoş geldiniz!";
-char kanGrubu = 'A';
+string kullaniciAdi = "Ramazan Kansu";
+string okulIsmi = "Keçiborlu MYO";
+char Sinif = 'A';
 char secim = 'E'; // Evet'in E'si
 ```
 
@@ -76,7 +76,7 @@ C#'ta değişkenlere isim verirken uymanız gereken bazı kurallar vardır:
 3.  C#'a özel anahtar kelimeler (`int`, `class`, `void` vb.) isim olarak kullanılamaz.
 4.  Özel karakterler içeremez (Sadece `_` (alt çizgi) kullanılabilir).
 
-**Tavsiye Edilen Standartlar (Best Practices):**
+**Tavsiye Edilen Standartlar:**
 *   **camelCase:** Değişken isimleri küçük harfle başlar, sonraki her kelimenin ilk harfi büyük yazılır. (Örn: `musteriBakiyesi`, `dogumTarihi`)
 *   Değişken isimleri açıklayıcı olmalıdır. (`a` ve `b` gibi isimler yerine `genislik` ve `yukseklik` kullanın).
 
