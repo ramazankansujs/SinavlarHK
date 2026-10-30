@@ -1,7 +1,7 @@
 
 ## 1. HTML Nedir?
 
-**HTML (Köprü Metni İşaretleme Dili)**, bir programlama dili değil, bir **işaretleme dilidir (markup language)**. Web sayfalarının yapısını, metinlerini, görsellerini ve bağlantılarını düzenlemek için etiketler (`<tag>`) kullanır.
+**HTML**, bir programlama dili değil, bir **işaretleme dilidir (markup language)**. Web sayfalarının yapısını, metinlerini, görsellerini ve bağlantılarını düzenlemek için etiketler (`<tag>`) kullanır.
 
 Bir web sitesini insan vücuduna benzetirsek:
 * **HTML:** Sitemizde görünen her şey HTML ile yapılır ancak CSS olmadan dümdüz durur.
