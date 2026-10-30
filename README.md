@@ -1,25 +1,30 @@
 # 📚 Sınavlara Hazırlık ve Ders Notları
 
-Bu depo, **Programlama Temelleri** ve **Web Tasarımı** derslerine ait kapsamlı konu anlatımlarını, akış şemalarını, kod örneklerini ve senaryoları içermektedir. 
-
 Çalışmak istediğiniz konunun üzerine tıklayarak ilgili klasöre ve detaylı rehber dokümanlarına doğrudan ulaşabilirsiniz.
 
 ---
+
 
 ## 💻 [Programlama Temelleri](https://github.com/ramazankansujs/SinavlarHK/tree/main/Programlama-Temelleri)
 
 Bu bölüm, algoritma mantığından başlayarak C# programlama dilinin temel yapı taşlarını içerir.
 
-* 🧠 **[Algoritma](https://github.com/ramazankansujs/SinavlarHK/tree/main/Programlama-Temelleri/algoritma)**
-  * Algoritma temelleri, akış şemaları (flowcharts) ve sözde kod (pseudocode) rehberleri.
-* 📦 **[Değişkenler](https://github.com/ramazankansujs/SinavlarHK/tree/main/Programlama-Temelleri/De%C4%9Fi%C5%9Fkenler)**
+* 🧠 [**Algoritma**](https://github.com/ramazankansujs/SinavlarHK/tree/main/Programlama-Temelleri/algoritma)
+  * 🔀 [**akis-semasi**](https://github.com/ramazankansujs/SinavlarHK/tree/main/Programlama-Temelleri/algoritma/akis-semasi) - Akış şemaları (flowcharts) rehberi.
+  * 📄 [**algoritma**](https://github.com/ramazankansujs/SinavlarHK/tree/main/Programlama-Temelleri/algoritma/algoritma) - Algoritma temelleri ve mantığı.
+  * ⌨️ [**sozde-kod**](https://github.com/ramazankansujs/SinavlarHK/tree/main/Programlama-Temelleri/algoritma/sozde-kod) - Sözde kod (pseudocode) rehberi.
+
+* 📦 [**Değişkenler**](https://github.com/ramazankansujs/SinavlarHK/tree/main/Programlama-Temelleri/De%C4%9Fi%C5%9Fkenler)
   * C# veri tipleri (int, string, double, bool vb.) ve ram/bellek yönetimi.
-* 🔄 **[Döngüler (Donguler)](https://github.com/ramazankansujs/SinavlarHK/tree/main/Programlama-Temelleri/Donguler)**
+
+* 🔄 [**Döngüler (Donguler)**](https://github.com/ramazankansujs/SinavlarHK/tree/main/Programlama-Temelleri/Donguler)
   * `for`, `while`, `do-while` ve `foreach` döngü yapılarının kullanımları.
-* 📚 **[Diziler](https://github.com/ramazankansujs/SinavlarHK/tree/main/Programlama-Temelleri/Diziler)**
+
+* 📚 [**Diziler**](https://github.com/ramazankansujs/SinavlarHK/tree/main/Programlama-Temelleri/Diziler)
   * Tek ve çok boyutlu diziler, indeks mantığı ve koleksiyon temelleri.
-* 🎯 **[Olası Senaryolar](https://github.com/ramazankansujs/SinavlarHK/tree/main/Programlama-Temelleri/Olasi-Senaryolar)**
-  * Sayı tahmin oyunu, vize/final notu hesaplama gibi gerçek hayat kodlama pratikleri.
+
+* 🎯 [**Olası Senaryolar**](https://github.com/ramazankansujs/SinavlarHK/tree/main/Programlama-Temelleri/Olasi-Senaryolar)
+  * Sayı tahmin oyunu, vize/final notu hesaplama gibi örnekler.
 
 ---
 
