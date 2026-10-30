@@ -76,10 +76,6 @@ C#'ta değişkenlere isim verirken uymanız gereken bazı kurallar vardır:
 3.  C#'a özel anahtar kelimeler (`int`, `class`, `void` vb.) isim olarak kullanılamaz.
 4.  Özel karakterler içeremez (Sadece `_` (alt çizgi) kullanılabilir).
 
-**Tavsiye Edilen Standartlar:**
-*   **camelCase:** Değişken isimleri küçük harfle başlar, sonraki her kelimenin ilk harfi büyük yazılır. (Örn: `musteriBakiyesi`, `dogumTarihi`)
-*   Değişken isimleri açıklayıcı olmalıdır. (`a` ve `b` gibi isimler yerine `genislik` ve `yukseklik` kullanın).
-
 ---
 
 ## Özet Tablosu
