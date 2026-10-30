@@ -34,6 +34,8 @@ Bu bölüm, modern bir web sitesi geliştirmek için gereken HTML iskeleti, CSS 
 
 * 🏗️ **[Temel Web Sitesi Yapısı](https://github.com/ramazankansujs/SinavlarHK/tree/main/Web-Tasarimi/Temel-Web-Sitesi-Yapisi)**
   * HTML5 standartları, `head`, `body`, meta etiketleri ve sayfa iskeleti oluşturma.
+* 📦 **[Divler ve Classlar](https://github.com/ramazankansujs/SinavlarHK/tree/main/Web-Tasarimi/Divler-ve-Classlar)**
+  * HTML'de kutular oluşturma ve sayfada şekillendirme. 
 * 📝 **[Metin Biçimlendirme](https://github.com/ramazankansujs/SinavlarHK/tree/main/Web-Tasarimi/Metin-Bicimlendirme)**
   * Başlıklar, paragraflar, kalın/eğik yazılar ve HTML anlamsal etiketleri.
 * 📊 **[Tablo Oluşturma](https://github.com/ramazankansujs/SinavlarHK/tree/main/Web-Tasarimi/Tablo-Olusturma)**
