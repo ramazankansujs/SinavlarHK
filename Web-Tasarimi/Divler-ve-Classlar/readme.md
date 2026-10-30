@@ -57,7 +57,7 @@ Yukarıda verdiğimiz `class` isimlerini CSS'te çağırarak (nokta ile) şekil 
 ```css
 /* Ana Kapsayıcıyı esnek yapı (Flexbox) yapıyoruz ki içindekiler yan yana gelsin */
 .sayfa-kapsayici {
-    display: flex; 
+    display: flex; /* aşağıdaki özelliklerin çalışması için div'i flex yapıya dönüştürür.*/
     gap: 20px; /* Kutular arasına 20 piksel boşluk koy */
     padding: 10px;
 }
@@ -78,11 +78,7 @@ Yukarıda verdiğimiz `class` isimlerini CSS'te çağırarak (nokta ile) şekil 
     border: 2px solid black; /* Etrafına siyah çizgi çek */
     
 }
-.kapsayici {
-    display: flex; /* aşağıdaki özelliklerin çalışması için div'i flex yapıya dönüştürür.*/
-    justify-content: center; /* İçindeki elemanları yatayda tam ortaya alır */
-    align-items: center;     /* İçindeki elemanları dikeyde tam ortaya alır */
-}
+
 
 ```
 
