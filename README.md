@@ -44,3 +44,5 @@ Bu bölüm, modern bir web sitesi geliştirmek için gereken HTML iskeleti, CSS 
   * Renkler, hizalamalar, Box Model (Kutu Modeli) ve Flexbox ile sayfa düzeni tasarımı.
 * ⚡ **[JavaScript](https://github.com/ramazankansujs/SinavlarHK/tree/main/Web-Tasarimi/JavaScript)**
   * Buton etkileşimleri (onclick), form doğrulama ve dinamik stil değiştirme.
+* 🫆 **[Tüm CSS Özellikleri](https://github.com/ramazankansujs/SinavlarHK/tree/main/Web-Tasarimi/Derslerdeki-Tum-CSS-Ozellikleri)**
+  * Derslerde gördüğümüz bütün CSS özellikleri.
